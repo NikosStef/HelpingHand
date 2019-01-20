@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">HelpingHand</string>
+    <string name="logo">Logo</string>
+    <string name="helping_hand">Helping Hand</string>
+    <string name="welcome">Welcome, </string>
+    <string name="log_out">Log out</string>
+    <string name="login_to_proceed">Login to proceed</string>
+    <string name="googlelogo">GoogleLogo</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="email_id">Email ID</string>
+    <string name="password">Password</string>
+    <string name="create_account">Create Account</string>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="this_application_will_be_your_best_buddy_whenever_you_feel_alone_or_sad_it_s_main_purpose_is_to_calculate_the_smiling_and_happiness_probability_of_the_person_in_the_picture_taken_using_the_machine_learning_kit_according_to_the_value_of_the_probability_this_app_will_offer_personalized_suggestions_in_order_to_maintain_and_increase_the_total_happiness_suggestions_may_be_modified_by_the_quot_add_activity_quot_tab_enjoy">This application will be your best buddy whenever you feel alone or sad. It\'s main purpose is to calculate the smiling and happiness probability of the person in the picture taken, using the Machine Learning Kit. According to the value of the probability, this app will offer personalized suggestions in order to maintain and increase the total happiness. Suggestions may be modified by the \"Add Activity\" tab. Enjoy!</string>
+    <string name="how_does_it_work">How does it work?</string>
+    <string name="todo">TODO</string>
+    <string name="weather">Weather</string>
+    <string name="happiness_probability_is_n">Happiness Probability is:</string>
+    <string name="go">GO</string>
+    <string name="i_would_suggest_you_to">I would suggest you to</string>
+    <string name="i_would_like_a_suggestion">I would like a suggestion</string>
+    <string name="but_more_importantly_don_t_forget_to_smile">But more importantly, don\'t forget to smile</string>
+    <string name="reminder_multiple_instances_of_the_same_suggestion_at_the_same_rate_will_be_delete">Reminder: Multiple instances of the same suggestion at the same rate will be delete!</string>
+    <string name="happiness_rate">Happiness Rate:</string>
+    <string name="suggestion">Suggestion:</string>
+    <string name="name">Name</string>
+    <string name="add_your_own_suggestion">Add your own suggestion</string>
+    <string name="add">ADD</string>
+    <string name="what_do_you_feel_like_doing_today">What do you feel like doing today?</string>
+    <string name="happiness_is_when_what_you_think_what_you_say_and_what_you_do_are_in_harmony_mahatma_gandhi">Happiness is when what you think, what you say, and what you do are in harmony. - Mahatma Gandhi</string>
+
+    <string-array name="rates_array">
+        <item>0.0 - 0.2</item>
+        <item>0.2 - 0.4</item>
+        <item>0.4 - 0.6</item>
+        <item>0.6 - 0.8</item>
+        <item>0.8 - 1.0</item>
+    </string-array>
+</resources>
